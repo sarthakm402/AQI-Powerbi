@@ -10,7 +10,7 @@ This repository contains a Power BI dashboard for visualizing and analyzing Air 
 - **Regional Comparison**: Compare AQI levels across different regions.
 - **Pollution Analysis**: Analyze pollution levels by different parameters.
 - Compare different types of Pollutants in air.
-
+ 
 ## Files
 
 - `AQI_Report.pbix`: The Power BI report file containing the AQI dashboard.
