@@ -4,7 +4,7 @@
  
 This repository contains a Power BI dashboard for visualizing and analyzing Air Quality Index (AQI) data. The dashboard provides insights into air quality trends, pollution levels, and comparison across different regions.
 
-## Features
+## Features 
 
 - **Air Quality Trends**: Visualize AQI data over time.
 - **Regional Comparison**: Compare AQI levels across different regions.
